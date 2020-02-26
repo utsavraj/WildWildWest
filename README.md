@@ -34,8 +34,3 @@ API 29 with the following devices
 # Screenshots
 ![Deul](Screenshots/Deul.png?raw=true)
 
-img[alt=Deul] {
-  width: 70%;
-  border: none;
-  background: none;
-}
