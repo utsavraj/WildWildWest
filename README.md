@@ -9,14 +9,13 @@ Keep your phone in the rest position like shown in the practice room and then pr
 When all is done, show off your high scores to your allies and your enemies. The town is never empty – connect phones in the same 
 network to share stories of great adventures to your friends and foes in the chatroom.
 
+**Target Audience**: English speaking Person of Age 8 to 70 who has Android Device and who know about Western Gun Showdown Culture.
 
 ## Tested on
 API 29 with the following devices
 * Pixel 3a XL
 * Nexus 5
 * Nexus 7
-
-**Target Audience**: English speaking Person of Age 8 to 70 who has Android Device and who know about Western Gun Showdown Culture.
 
 # Technical components:
 * **Multimedia:** Images used as backgrounds, logo and decorators. Audio of “READY”,”FIRE”, gunshot sound played when Practicing or Dueling. Music played on loop in the Home-Screen (MainActivity.java).
