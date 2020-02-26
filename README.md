@@ -35,4 +35,4 @@ API 29 with the following devices
 
 <img src="/Screenshots/Login.png" align="left" width="200" hspace="10" vspace="10">
 <img src="/Screenshots/Home.png" align="center" width="200" hspace="10" vspace="10">
-<img src="/Screenshots/Practice.png" align="center" width="200" hspace="10" vspace="10">
+<img src="/Screenshots/Practice.png" align="right" width="200" hspace="10" vspace="10">
