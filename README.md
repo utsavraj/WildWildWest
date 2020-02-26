@@ -7,7 +7,7 @@ Tested on API 29 with the following devices
 
 **Target Audience**: English speaking Person of Age 8 to 70 who has Android Device and who know about Western Gun Showdown Culture.
 
-# Technical components involved:
+# Technical components:
 * **Multimedia:** Images used as backgrounds, logo and decorators. Audio of “READY”,”FIRE”, gunshot sound played when Practicing or Dueling. Music played on loop in the Home-Screen (MainActivity.java).
 
 * **Sensor**: Accelerometer is the core mechanic of the game – it is used to understand the position of the phone in space.
