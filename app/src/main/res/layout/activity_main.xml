@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background">
+
+
+    <TextView
+        android:text="Hi, "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#fff"
+        android:id="@+id/Email"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:id="@+id/msgList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|bottom">
+
+        <Button
+            android:id="@+id/Practice"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="20sp"
+            android:background="#00c3e3"
+            android:text="Practice"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/Duel"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="20sp"
+            android:background="#ff4554"
+            android:text="Duel"
+            android:textColor="@android:color/white" />
+
+
+        <Button
+            android:id="@+id/ChatRoom"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="20sp"
+            android:background="#414548"
+            android:text="Chatroom"
+            android:textColor="@android:color/white" />
+        <Button
+            android:id="@+id/logout"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="20sp"
+            android:text="Logout"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/msgList2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|bottom">
+
+        <TextView
+            android:text="HighScore: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:id="@+id/HighScore"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</RelativeLayout>

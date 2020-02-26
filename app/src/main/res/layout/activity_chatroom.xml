@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChatRoomActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:id="@+id/Explain"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:id="@+id/msgList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/ServerRoom"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="20sp"
+            android:background="#00c3e3"
+            android:text="Server"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/ClientRoom"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="20sp"
+            android:background="#ff4554"
+            android:text="Client"
+            android:textColor="@android:color/white" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
