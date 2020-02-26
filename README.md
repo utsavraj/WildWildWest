@@ -32,5 +32,7 @@ API 29 with the following devices
 * **Server Support**: The Chatroom uses one Phone as the local server and others as Clients to communicate between each other with the condition being that the phones are in the same network.
 
 # Screenshots
-![Deul](Screenshots/Deul.png?raw=true)
+
+[<img src="/Screenshots/Deul.png" align="left"
+width="200" hspace="10" vspace="10">]
 
