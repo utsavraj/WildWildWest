@@ -28,3 +28,5 @@ API 29 with the following devices
   * High-score (Displayed in Home-Screen as null when you first register and is updated when it is lower than your previous time or high-score is null)
   
 * **Server Support**: The Chatroom uses one Phone as the local server and others as Clients to communicate between each other with the condition being that the phones are in the same network.
+
+# Screenshots
