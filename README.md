@@ -34,6 +34,6 @@ API 29 with the following devices
 # Screenshots
 
 <img src="/Screenshots/Login.png" width="200" align="left" hspace="10" vspace="10">
-<img src="/Screenshots/Home.png" align="left" width="200" hspace="10" vspace="10">
-<img src="/Screenshots/Practice.png" align="left" width="200" hspace="10" vspace="10">
-<img src="/Screenshots/Deul.png" align="left" width="200" hspace="10" vspace="10">
+<img src="/Screenshots/Home.png" align="left" width="150" hspace="10" vspace="10">
+<img src="/Screenshots/Practice.png" align="left" width="150" hspace="10" vspace="10">
+<img src="/Screenshots/Deul.png" align="left" width="150" hspace="10" vspace="10">
