@@ -33,6 +33,5 @@ API 29 with the following devices
 
 # Screenshots
 
-[<img src="/Screenshots/Deul.png" align="left"
-width="200" hspace="10" vspace="10">]
-
+<img src="/Screenshots/Login.png" align="left" width="200" hspace="10" vspace="10">
+<img src="/Screenshots/Home.png" align="center" width="200" hspace="10" vspace="10">
