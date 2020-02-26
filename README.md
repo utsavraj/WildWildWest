@@ -1,5 +1,6 @@
 # Wild Wild West
 Howdy Partner! 
+
 Wild Wild West is an android mobile game which aims to emulate the old west gun showdown. You can easily sign up and get more personalized experience without any worry of privacy as the data is stored locally in the device – a big relief for the parents! 
 
 The aim is to create a fun experience between friends/family by spending time together. You can either practice your gunslinging skills in the practice room or go head to head in the duel against family or friends by using the same phone.
